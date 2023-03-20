@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GitHubRepos.MySplash" parent="Theme.SplashScreen.IconBackground">
+        <item name="windowSplashScreenBackground">@color/md_theme_light_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/github_light</item>
+        <item name="postSplashScreenTheme">@style/Theme.GitHubRepos</item>
+    </style>
+</resources>
